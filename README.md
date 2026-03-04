@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://path-to-where-you-upload-this-new-image.png" alt="Lutaaya Benon Stephen - Software Engineering" width="100%">
+  <img src="https://github.com/benluts256/LUTAAYA-BENON-STEPHEN/blob/main/cover%5B1%5D.png" alt="Lutaaya Benon Stephen - Software Engineering" width="100%">
 </p>
 
 # Hi there, I'm Lutaaya Benon Stephen 👋 
@@ -11,7 +11,7 @@ I specialize in building **scalable web applications and websites**, focusing on
 
 ### 🔗 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lutaaya Benon Stephen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/benon-lutaaya-8687632a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lutaaya Benon Stephen" height="30" width="40" /></a>
 <a href="mailto:lutaayabenon4@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="lutaayabenon4@gmail.com" height="30" width="40" /></a>
 </p>
 
