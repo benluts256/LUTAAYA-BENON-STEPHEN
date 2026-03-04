@@ -37,11 +37,10 @@ I specialize in building **scalable web applications and websites**, focusing on
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=benluts256&show_icons=true&theme=radical" alt="Ben's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benluts256&layout=compact&theme=radical" alt="Top Langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benluts256&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benluts256&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🔭 Current Focus
