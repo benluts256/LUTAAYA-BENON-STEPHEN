@@ -23,7 +23,9 @@ Building scalable web applications, dashboards and automation tools.
 
 - Python  
 - JavaScript  
-- SQL  
+- SQL
+- Java
+  
 
 **Frontend**
 
