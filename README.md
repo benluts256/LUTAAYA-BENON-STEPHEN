@@ -80,7 +80,7 @@ Scripts for automating system tasks and data processing.
 
 - GitHub: https://github.com/benluts256  
 - Email: lutaayabenon4@gmail.com  
-
+- LinkedIn: https://www.linkedin.com/in/benon-lutaaya-8687632a4/ 
 ---
 
 ⭐ From **Benon Lutaaya**
