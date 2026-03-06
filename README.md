@@ -47,7 +47,7 @@ Building scalable web applications, dashboards and automation tools.
 
 ## 📊 GitHub Stats
 
-![Benon's GitHub stats](https://github-readme-stats.vercel.app/api?username=benluts256&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benluts256&show_icons=true)
 
 ---
 
